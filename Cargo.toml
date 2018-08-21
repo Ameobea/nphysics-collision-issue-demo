@@ -1,0 +1,10 @@
+[package]
+name = "collision-problem-demo"
+version = "0.1.0"
+authors = ["Casey Primozic <me@ameo.link>"]
+
+[dependencies]
+nalgebra   = "0.16"
+ncollide2d = "0.17.1"
+nphysics2d = "0.9.1"
+nphysics_testbed2d = "0.1.0"
